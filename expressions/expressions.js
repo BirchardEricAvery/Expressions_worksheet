@@ -11,26 +11,28 @@
 
 //Sparky's age
 
-var ageDog;
+var ageDog; //initial age variable
 
-var ageDog = prompt("What is Sparky's' age?");
+var ageDog = prompt("What is Sparky's' age?"); //gathering input for dog age via user input
 
-var age;
+var age; //variable for human years
 
-var age = ageDog;
-ageDog = ageDog * 7;
+var age = ageDog;  //putting human years variable into age for output of human years
 
-
-alert("Sparky's' age in human years is" + age + "which is" + ageDog +
-"in dog years");
-console.log(ageDog);
-console.log(age);
+ageDog = ageDog * 7; //calculation for dog years
 
 
+alert("Sparky's' age in human years is" + " " //user reads age in human years
++ age + " " + "which is" + " "   //displays human years
++ ageDog + " " + "in dog years");  //user reads age in dog years
 
-//Sparky's age in dog years
+console.log(ageDog); //console log for dog years
+console.log(age);  //console log for human years
 
-//Sparky is X human years old which is X in dog years
 
 
-//the average is the sum of the items divided by the number of items
+
+
+
+
+
