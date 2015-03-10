@@ -29,6 +29,10 @@ alert("Sparky's' age in human years is" + " " //user reads age in human years
 console.log(ageDog); //console log for dog years
 console.log(age);  //console log for human years
 
+//Slice of pie I, no it's pizza.  Title is Pie.
+
+
+
 
 
 
