@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="769c3cd1-e36d-42d8-96de-a64f82634011" name="Default" comment="" />
+    <list default="true" id="769c3cd1-e36d-42d8-96de-a64f82634011" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aa.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressions.html" afterPath="$PROJECT_DIR$/expressions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/java.js" afterPath="$PROJECT_DIR$/js/java.js" />
+    </list>
     <ignored path="expressions.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +31,8 @@
       <file leaf-file-name="expressions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/expressions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -37,8 +41,8 @@
       <file leaf-file-name="java.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/java.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11645963" vertical-offset="0" max-vertical-offset="644">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.6754658" vertical-offset="0" max-vertical-offset="644">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -53,8 +57,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/java.js" />
-        <option value="$PROJECT_DIR$/expressions.html" />
         <option value="$PROJECT_DIR$/aa.js" />
+        <option value="$PROJECT_DIR$/expressions.html" />
         <option value="$PROJECT_DIR$/js/java.js" />
       </list>
     </option>
@@ -63,8 +67,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="380" />
-    <option name="y" value="42" />
+    <option name="x" value="227" />
+    <option name="y" value="23" />
     <option name="width" value="1083" />
     <option name="height" value="764" />
   </component>
@@ -166,7 +170,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="380" y="42" width="1083" height="764" extended-state="0" />
+    <frame x="227" y="23" width="1083" height="764" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -210,28 +214,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aa.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="644">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/expressions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/java.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11645963" vertical-offset="0" max-vertical-offset="644">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.6754658" vertical-offset="0" max-vertical-offset="644">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
           <folding />
         </state>
       </provider>
